@@ -1,0 +1,8 @@
+[package]
+name = "road_intersection_raid"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sdl2 = "*"
+rand = "*"
