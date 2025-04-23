@@ -1,4 +1,4 @@
-# road_intersection
+# Road Intersection Traffic Simulation
 
 A traffic control strategy simulation for a capital city intersection, implemented in Rust using the SDL2 library.
 
